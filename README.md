@@ -1,1 +1,2 @@
-# PranitKatwe.github.io
+# PranitKatwe.github.
+This project entails rigorous data analysis that will not only uncover trends and patterns but also pinpoint the root causes of food waste across various sectors of the food supply chain. By conducting thorough analyses, we will discern which stages of the food supply chain are most susceptible to waste, whether it be during production, transportation, storage, or consumer handling. Our objective is to provide a clear roadmap that prioritizes the critical areas where interventions are needed most urgently.
